@@ -1,7 +1,6 @@
-# QuickTemplate
+# ModelQuantization
 
-A python template to quickly start a new project. Comes with jupyter notebooks and a 
-pre-commit config pre-provided.
+Learning how to perform quantization on AI models, to make them more computationally efficient.
 
 ## Installation
 
